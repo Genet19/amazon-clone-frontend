@@ -27,6 +27,7 @@ function Home() {
 						rating={4}
 						image="https://m.media-amazon.com/images/I/81UbgglwazL._AC_UL320_.jpg"
 					/>
+					
 				</div>
 				<div className="home__row">
 					<Product

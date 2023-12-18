@@ -27,13 +27,7 @@ function Home() {
 						rating={4}
 						image="https://m.media-amazon.com/images/I/81UbgglwazL._AC_UL320_.jpg"
 					/>
-					<Product
-						id="12321341"
-						title="Alangbudu Layered Initial Necklaces for Women, 14K Real Gold Plated Paperclip Chain Necklace Cute Hexagon Letter Pendant Initial Tarnish Gold Jewelry"
-						price={11.96}
-						rating={5}
-						image="https://m.media-amazon.com/images/I/613fRwnwUXL._AC_UL320_.jpg"
-					/>
+					
 				</div>
 				<div className="home__row">
 					<Product

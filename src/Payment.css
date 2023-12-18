@@ -1,8 +1,6 @@
 .payment{
     background-color: white;
 }
-
-
 .payment__container > h1{
     text-align:center;
     padding: 10px;
@@ -48,12 +46,10 @@
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
 }
-
-
 .payment__details > h3{
     padding-bottom: 20px;
 }
-
+/* testing for git branches */
 
 
 
